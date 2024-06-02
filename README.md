@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yash Saraswat</h1>
 <h3 align="center">A passionate full-Stack Web developer from India.</h3>
 
-<img align="right" width="400" alt="coding" src="[https://www.deviantart.com/pixeljeff/art/Coding-990517671](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash0000001&label=Profile%20views&color=0e75b6&style=flat" alt="yash0000001" /> </p>
 
